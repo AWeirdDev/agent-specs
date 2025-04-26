@@ -14,7 +14,7 @@ lang: en-US
 
 Oh, look.
 
-![Google-ish stuff](ai-agents-search.png)
+![Google-ish stuff](/ai-agents-search.png)
 
 Agents are pretty annoying.
 
