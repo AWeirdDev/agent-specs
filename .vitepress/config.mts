@@ -25,6 +25,13 @@ export default defineConfig({
         ],
       },
 
+      {
+        text: '🤔 Theories',
+        items: [
+          { text: 'Fluentness', link: '/theories/fluentness' }
+        ],
+      },
+
       { text: 'Todos', link: '/todos' }
 
     ],
